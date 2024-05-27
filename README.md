@@ -1,4 +1,5 @@
 Full Substractor RTL design using verilogHDl in xilinx vivado.....
+First i have written an verilo code for full substractor.
 
 ![Screenshot 2024-05-28 012458](https://github.com/Digi-soura22/VLSI_4_ME/assets/152212584/0f25ae69-ef88-4cbf-8961-ab058a3512a9)
 
